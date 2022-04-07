@@ -5,7 +5,7 @@ description: The hallway smelt of boiled cabbage and old rag mats.
 
 Hola ✌️  soy el explorer **Marco Cárcamo** y este es mi blog personal donde compartiré mis aventuras de Launch X.
 
-Soy un estudiante de ingeniería sistemas y egresado de la carrera de música, soy una apasionado de la tecnología, el arte, los videojuegos y muchas cosas más.
+Soy un estudiante de ingeniería sistemas y egresado de la carrera de música. Soy una apasionado de la tecnología, el arte, los videojuegos y muchas cosas más. Amo el café matutino y aprender constantemente cosas nuevas.
 
 Mis expectativas en la misión backend son:
 - Ser capaz de crear proyectos desde el lado del servidos.
